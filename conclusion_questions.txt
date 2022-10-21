@@ -1,0 +1,2 @@
+1) lists would be used when you have multiple things grouped together. 
+2) it would not be appropriate to unrelated user data in a list. for example, you do not want to have credit card numbers in a list without being able to identify which card number is which user.

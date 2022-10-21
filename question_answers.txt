@@ -1,0 +1,8 @@
+1) it makes a list and prints the list
+2) yes
+5) it will print each animal in the list
+16)
+  a) the program stops because there aren't any colors left to pop
+  b) yes
+  c) the program still works, the deleted shape is not drawn
+  d) done
